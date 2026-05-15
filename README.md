@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Platform-VirtualBox-21abd5?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/SIEM-Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Firewall-OPNsense-ff6600?style=for-the-badge&logo=opnsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Finalizado%20(Phase%201)-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Finalizado-2ea44f?style=for-the-badge" />
 </p>
 
 ## Objetivo
@@ -64,7 +64,5 @@ O laboratório foi desenvolvido com foco em práticas de **Blue Team**, monitora
 - Mapeamento completo via **MITRE ATT&CK Mapping**.
 
 ---
-**Status:** Finalizado   
+**Status:** Finalizado
 **Desenvolvedor:** Leonardo Luiz Eboli
-
-
