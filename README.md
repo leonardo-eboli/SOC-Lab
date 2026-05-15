@@ -64,5 +64,7 @@ O laboratório foi desenvolvido com foco em práticas de **Blue Team**, monitora
 - Mapeamento completo via **MITRE ATT&CK Mapping**.
 
 ---
-**Status:** Finalizado (Phase 1) ✅  
+**Status:** Finalizado ✅  
 **Desenvolvedor:** Leonardo Luiz Eboli
+
+
